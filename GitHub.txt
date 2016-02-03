@@ -1,0 +1,7 @@
+﻿1.git clone https://github.com/zdmisif/MyLearnLibrary.git
+
+2.git add .
+
+3.git commit -m "xxx"
+
+4.git push -u origin master
