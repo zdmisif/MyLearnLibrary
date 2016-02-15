@@ -1,6 +1,6 @@
 ﻿1.git clone https://github.com/zdmisif/MyLearnLibrary.git
 
-2.git add .
+2.git add .(不一定要用)
 
 3.git commit -m "xxx"
 
